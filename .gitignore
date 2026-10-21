@@ -1,0 +1,15 @@
+# Local credentials and private notes
+.env
+!.env.example
+secret.md
+*.pem
+*.key
+
+# Build artifacts
+okxswapdemo
+demo/okxswapdemo
+*.exe
+
+# Logs and editor files
+*.log
+.DS_Store
